@@ -1,0 +1,34 @@
+_repo: When-a-Man-s-SingleA-Tale-of-Literary-Life_41031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, J.M.
+    - Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2012-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Scots -- England -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Journalists -- Fiction'
+title: 'When a Man''s Single: A Tale of Literary Life'
+url: http://www.gutenberg.org/ebooks/41031
